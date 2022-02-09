@@ -1,5 +1,5 @@
 # Gym-React
-This website is for a client's Gym and I built it using React.js library,I converted it from a figma design, and deployed a live test demo of it using Netlify. The source code is in a private repository. This is the Live test demo: https://0-gym-0.netlify.app/.
+This website is for a client's Gym and I built it using React.js library, I converted it from a Figma design, and deployed a live test demo of it using Netlify. The source code is in a private repository. This is the Live test demo: https://0-gym-0.netlify.app/.
 
 These are the Snapshots of the design:
 
